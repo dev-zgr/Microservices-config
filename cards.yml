@@ -1,11 +1,14 @@
 build:
-  version: "3.0"
+  version: "3.0:DEF"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to CARD cards related  -DEFAULT- "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
+
+    build:
+  version: "3.0:DEF"
