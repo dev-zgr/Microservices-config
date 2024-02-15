@@ -1,5 +1,5 @@
 build:
-  version: "3.0:DEF"
+  version: "2.0"
 
 cards:
   message: "Welcome to CARD cards related  -DEFAULT- "
